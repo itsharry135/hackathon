@@ -2,6 +2,7 @@ IoT Based Dustbin
 
 Our Youtube links:
 Small video - https://youtube.com/shorts/wWUVvPbMWC0?feature=share
+Original video - https://youtu.be/PZajkmeq0bM
 
 Problem Statement
 Problem Statement Improper waste management is one of the biggest challenges we face today. Overflowing dustbins and littered streets are familiar sights in cities around the world. The problem is particularly acute in developing countries, where waste management infrastructure is often inadequate. To address this problem, we have created an IoT-based dustbin that can send the status of the dustbin to a webpage.
